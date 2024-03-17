@@ -1,0 +1,77 @@
+--== Test Case 1 ==--
+
+Point 1
+x = 0
+y = 0
+Point 2
+x = 5
+y = 5
+Point 3
+x = 10
+y = 0
+Jumlah Iterasi: 10
+
+--== Test Case 2 ==--
+
+Point 1
+x = -20
+y = 10
+Point 2
+x = 30
+y = 50
+Point 3
+x = 30
+y = 39
+Jumlah Iterasi: 20
+
+--== Test Case 3 ==--
+
+Point 1
+x = -1000
+y = -1000
+Point 2
+x = 2000
+y = 4000
+Point 3
+x = 3000
+y = -4000
+Jumlah Iterasi: 15
+
+--== Test Case 4 ==--
+
+Point 1
+x = 999
+y = 999
+Point 2
+x = -999
+y = -999
+Point 3
+x = 2000
+y = 999
+Jumlah Iterasi: 20
+
+--== Test Case 5 ==--
+
+Point 1
+x = 231
+y = 4095
+Point 2
+x = 134
+y = 210
+Point 3
+x = 21014
+y = 290
+Jumlah Iterasi: 10
+
+--== Test Case 6 ==--
+
+Point 1
+x = 14909
+y = 39
+Point 2
+x = 1209
+y = -1284
+Point 3
+x = -2490
+y = -1290
+Jumlah Iterasi: 15
